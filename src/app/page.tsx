@@ -4,12 +4,12 @@ export default function Home() {
       <div className="w-full max-w-md rounded-2xl border border-zinc-200 bg-white p-8 shadow-sm text-center dark:border-zinc-800 dark:bg-zinc-900">
         {/* 프로필 아바타 */}
         <div className="mx-auto flex h-24 w-24 items-center justify-center rounded-full bg-blue-500/10 text-blue-600 dark:bg-blue-500/20 dark:text-blue-400 text-3xl font-bold mb-5 select-none">
-          홍
+          이
         </div>
 
         {/* 이름 */}
         <h1 className="text-2xl font-bold tracking-tight text-zinc-900 dark:text-zinc-50">
-          홍길동
+          이연우
         </h1>
 
         {/* 뱃지 / 태그 */}
