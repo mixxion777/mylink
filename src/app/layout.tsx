@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "마이링크 | mylink",
-  description: "마이링크 서비스",
+  title: "이연우 | Design Engineer & Frontend Developer",
+  description: "디자인 감각과 기술적 깊이를 연결하는 디자인 엔지니어 이연우의 프로필 링크입니다.",
 };
 
 export default function RootLayout({
