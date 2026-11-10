@@ -262,7 +262,7 @@ export default function Home() {
             <div className="relative shrink-0 self-start md:self-center">
               <div className="relative h-28 w-28 sm:h-36 sm:w-36 overflow-hidden rounded-full border-2 border-white/20 bg-white/10 shadow-lg">
                 <Image
-                  src="/profile.jpg"
+                  src="/profile-yeonwoo.jpg"
                   alt="이연우 프로필"
                   fill
                   sizes="(max-width: 640px) 112px, 144px"
